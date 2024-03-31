@@ -18,7 +18,6 @@ This is a basic recipe website project created to showcase a collection of recip
 ## Technologies Used
 
 - HTML
-- CSS
 
 ## File Structure
 
