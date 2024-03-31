@@ -32,11 +32,6 @@ This is a basic recipe website project created to showcase a collection of recip
 │   ├── recipe2.html
 │   ├── recipe3.html
 │   └── ...
-└── img
-    ├── recipe1.jpg
-    ├── recipe2.jpg
-    ├── recipe3.jpg
-    └── ...
 ```
 
 ## Contribution
